@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="locationByPlatform" type="boolean" value="true"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+    <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[0, 0]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,17,0,0,3,21"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="33" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-4" y="0" width="230" height="530"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel6" min="-2" pref="103" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="0" pref="27" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace pref="59" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel1" alignment="1" min="-2" pref="189" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="28" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" pref="28" max="-2" attributes="0"/>
+                  <EmptySpace pref="206" max="32767" attributes="0"/>
+                  <Component id="jLabel6" min="-2" pref="28" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/army/pic/icons8_add_new_30px.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x3a0;&#x3c1;&#x3bf;&#x3c3;&#x3b8;&#x3ae;&#x3ba;&#x3b7; &#x3a5;&#x3c0;&#x3b7;&#x3c1;&#x3b5;&#x3c3;&#x3af;&#x3b1;&#x3c2;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/army/pic/icons8_close_window_30px.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x388;&#x3be;&#x3bf;&#x3b4;&#x3bf;&#x3c2;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel6MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/army/pic/army1.jpg"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x3a3;&#x3a0;&#x392; &#x3a4;&#x393;&#x3a7; &#x393;&#x395;&#x3a9;&#x3a1;&#x393;&#x399;&#x391;&#x394;&#x397; &#x398;&#x3a9;&#x39c;&#x391; "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="210" y="0" width="580" height="530"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Black" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x395;&#x3c6;&#x3b1;&#x3c1;&#x3bc;&#x3bf;&#x3b3;&#x3ae; &#x394;&#x3b9;&#x3b1;&#x3c7;&#x3b5;&#x3af;&#x3c1;&#x3b9;&#x3c3;&#x3b7;&#x3c2; &#x39f;&#x3c0;&#x3bb;&#x3b9;&#x3c4;&#x3ce;&#x3bd;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="140" y="90" width="320" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Black" size="26" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x39a;&#x3b1;&#x3bb;&#x3c9;&#x3c3;&#x3ae;&#x3c1;&#x3b8;&#x3b1;&#x3c4;&#x3b5; &#x3c3;&#x3c4;&#x3b7;&#x3bd; 98 &#x39c;&#x395;&#x398;!"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="100" y="50" width="400" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtsur">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="0"/>
+            </Property>
+            <Property name="maximumRowCount" type="int" value="50"/>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="1">
+                <StringItem index="0" value="&#x395;&#x3c0;&#x3b9;&#x3bb;&#x3ad;&#x3be;&#x3c4;&#x3b5; &#x39f;&#x3c0;&#x3bb;&#x3af;&#x3c4;&#x3b7;:"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="230" width="510" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtser">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="0"/>
+            </Property>
+            <Property name="maximumRowCount" type="int" value="20"/>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="35">
+                <StringItem index="0" value="&#x395;&#x3c0;&#x3b9;&#x3bb;&#x3ad;&#x3be;&#x3c4;&#x3b5; &#x3a5;&#x3c0;&#x3b7;&#x3c1;&#x3b5;&#x3c3;&#x3af;&#x3b1;:"/>
+                <StringItem index="1" value="401 &#x39a;.&#x395;.&#x395;&#x394;."/>
+                <StringItem index="2" value="&#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ad;&#x3c2; &#x394;&#x3b5;&#x3ba;&#x3b1;&#x3bd;&#x3ad;&#x3b1; &#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ae;&#x3c2; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="3" value="&#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ad;&#x3c2; &#x394;&#x3b5;&#x3ba;&#x3b1;&#x3bd;&#x3ad;&#x3b1; &#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ae;&#x3c2; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="4" value="&#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ad;&#x3c2; &#x394;&#x3b5;&#x3ba;&#x3b1;&#x3bd;&#x3ad;&#x3b1; &#x391;&#x3bb;&#x3bb;&#x3b1;&#x3b3;&#x3ae;&#x3c2; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="5" value="&#x391;&#x3c0;&#x3bf;&#x3b3;&#x3b5;&#x3c5;&#x3bc;&#x3b1;&#x3c4;&#x3b9;&#x3bd;&#x3ae; &#x3a3;&#x3b7;&#x3bc;&#x3b1;&#x3af;&#x3b1;"/>
+                <StringItem index="6" value="&#x391;&#x3a5;&#x394;&#x39c; (24&#x3c9;&#x3c1;&#x3bf;)"/>
+                <StringItem index="7" value="&#x392;&#x395;&#x391;&#x3a3; (24&#x3c9;&#x3c1;&#x3bf;)"/>
+                <StringItem index="8" value="&#x395;.Y."/>
+                <StringItem index="9" value="&#x395;&#x391;&#x3a3; (24&#x3c9;&#x3c1;&#x3bf;) "/>
+                <StringItem index="10" value="&#x395;&#x3be;&#x3bf;&#x3b4;&#x3bf;&#x3cd;&#x3c7;&#x3bf;&#x3b9;"/>
+                <StringItem index="11" value="&#x395;&#x3ba;&#x3c4;&#x3cc;&#x3c2; &#x3a6;&#x3c1;&#x3bf;&#x3c5;&#x3c1;&#x3ac;&#x3c2;"/>
+                <StringItem index="12" value="&#x395;&#x3c3;&#x3c4;&#x3b9;&#x3ac;&#x3c4;&#x3bf;&#x3c1;&#x3b1;&#x3c2; (24&#x3c9;&#x3c1;&#x3bf;)"/>
+                <StringItem index="13" value="&#x39a;&#x3c4;&#x3b7;&#x3c1;&#x3b9;&#x3bf;&#x3c6;&#x3cd;&#x3bb;&#x3b1;&#x3ba;&#x3b1;&#x3c2; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="14" value="&#x39a;&#x3c4;&#x3b7;&#x3c1;&#x3b9;&#x3bf;&#x3c6;&#x3cd;&#x3bb;&#x3b1;&#x3ba;&#x3b1;&#x3c2; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="15" value="&#x39a;&#x3c4;&#x3b7;&#x3c1;&#x3b9;&#x3bf;&#x3c6;&#x3cd;&#x3bb;&#x3b1;&#x3ba;&#x3b1;&#x3c2; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="16" value="&#x397;&#x3a3;&#x391; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="17" value="&#x397;&#x3a3;&#x391; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="18" value="&#x397;&#x3a3;&#x391; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="19" value="&#x39a;&#x3b5;&#x3bd;&#x3c4;&#x3c1;&#x3b9;&#x3ba;&#x3ae; &#x3a0;&#x3cd;&#x3bb;&#x3b7; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="20" value="&#x39a;&#x3b5;&#x3bd;&#x3c4;&#x3c1;&#x3b9;&#x3ba;&#x3ae; &#x3a0;&#x3cd;&#x3bb;&#x3b7; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="21" value="&#x39a;&#x3b5;&#x3bd;&#x3c4;&#x3c1;&#x3b9;&#x3ba;&#x3ae; &#x3a0;&#x3cd;&#x3bb;&#x3b7; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="22" value="&#x39a;&#x3a8;&#x391; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="23" value="&#x39a;&#x3a8;&#x391; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="24" value="&#x39a;&#x3a8;&#x391; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="25" value="&#x39e;&#x3b5;&#x3bd;&#x3bf;&#x3ba;&#x3c1;&#x3ac;&#x3c4;&#x3b7;&#x3c2; &#x39a;&#x3cd;&#x3c1;&#x3b9;&#x3bf;"/>
+                <StringItem index="26" value="&#x39e;&#x3b5;&#x3bd;&#x3bf;&#x3ba;&#x3c1;&#x3ac;&#x3c4;&#x3b7;&#x3c2; &#x395;&#x3c6;&#x3b5;&#x3b4;&#x3c1;&#x3b9;&#x3ba;&#x3cc;"/>
+                <StringItem index="27" value="&#x39f;&#x3bc;&#x3ac;&#x3b4;&#x3b1; &#x3a0;&#x3c5;&#x3c1;&#x3b1;&#x3c3;&#x3c6;&#x3ac;&#x3bb;&#x3b5;&#x3b9;&#x3b1;&#x3c2; &#x39a;&#x3cd;&#x3c1;&#x3b9;&#x3bf;"/>
+                <StringItem index="28" value="&#x39f;&#x3bc;&#x3ac;&#x3b4;&#x3b1; &#x3a0;&#x3c5;&#x3c1;&#x3b1;&#x3c3;&#x3c6;&#x3ac;&#x3bb;&#x3b5;&#x3b9;&#x3b1;&#x3c2; &#x395;&#x3c6;&#x3b5;&#x3b4;&#x3c1;&#x3b9;&#x3ba;&#x3cc;"/>
+                <StringItem index="29" value="&#x38c;&#x3c1;&#x3b3;&#x3b1;&#x3bd;&#x3bf; (24&#x3c9;&#x3c1;&#x3bf;)"/>
+                <StringItem index="30" value="&#x3a0;&#x3b5;&#x3c1;&#x3af;&#x3c0;&#x3bf;&#x3bb;&#x3bf; (15:00-18:00,00:00-02:00,06:00-09:00)"/>
+                <StringItem index="31" value="&#x3a0;&#x3b5;&#x3c1;&#x3af;&#x3c0;&#x3bf;&#x3bb;&#x3bf; (18:00-21:00,02:00-04:00,09:00-12:00)"/>
+                <StringItem index="32" value="&#x3a0;&#x3b5;&#x3c1;&#x3af;&#x3c0;&#x3bf;&#x3bb;&#x3bf; (21:00-00:00,04:00-06:00,12:00-15:00)"/>
+                <StringItem index="33" value="&#x3a4;.&#x391;.&#x395; &#x39a;&#x3cd;&#x3c1;&#x3b9;&#x3bf;"/>
+                <StringItem index="34" value="&#x3a4;.&#x391;.&#x395; &#x395;&#x3c6;&#x3b5;&#x3b4;&#x3c1;&#x3b9;&#x3ba;&#x3cc;"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="330" width="510" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x3a0;&#x3c1;&#x3bf;&#x3c3;&#x3b8;&#x3ae;&#x3ba;&#x3b7; &#x3a5;&#x3c0;&#x3b7;&#x3c1;&#x3b5;&#x3c3;&#x3af;&#x3b1;&#x3c2;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="190" y="430" width="210" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Back">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/army/pic/icons8_back_30px.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x3a0;&#x3af;&#x3c3;&#x3c9;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="BackMouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="490" y="10" width="90" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
