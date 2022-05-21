@@ -81,7 +81,9 @@ Army Framework for soldier's services with report per day's services. Admin can 
 
 ![pdffileExport](https://user-images.githubusercontent.com/105977792/169653787-ecd60827-cbd9-44f3-94ac-dd543f06aa2a.jpg)
 
+## Installation Instructions
 
+[ArmyΣΠΒReport.pdf](https://github.com/Mpak1996/Army-App/files/8747745/Army.Report.pdf)
 
 
 
